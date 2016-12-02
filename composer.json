@@ -1,0 +1,14 @@
+{
+    "name": "route/test",
+    "type": "project",
+    "require-dev": {
+        "phroute/phroute": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "romanitalian",
+            "email": "romanitalian.net@gmail.com"
+        }
+    ],
+    "require": {}
+}
